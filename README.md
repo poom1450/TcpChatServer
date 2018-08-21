@@ -30,9 +30,9 @@ Funtion client
 List of function is not finish
   - When user rename server it will add new name to list and not remove old name from that.
 
-  it frist time for me to make some application it with c# *
-  if have something wrong ,sorry for that *
-  Would you let me know if i does anything wrong *
+  - it frist time for me to make some application it with c# *
+  - if have something wrong ,sorry for that *
+  - Would you let me know if i does anything wrong *
 
-  this project used 22 hr for finished
+  This project used 22 hr for finished
   contact: pichaya.aek@gmail.com
