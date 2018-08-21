@@ -1,0 +1,15 @@
+C:\Users\pichaya aeksiri\source\repos\TcpServertest\TcpServertest\bin\Release\TcpServertest.exe.config
+C:\Users\pichaya aeksiri\source\repos\TcpServertest\TcpServertest\bin\Release\TcpServertest.exe.manifest
+C:\Users\pichaya aeksiri\source\repos\TcpServertest\TcpServertest\bin\Release\TcpServertest.application
+C:\Users\pichaya aeksiri\source\repos\TcpServertest\TcpServertest\bin\Release\TcpServertest.exe
+C:\Users\pichaya aeksiri\source\repos\TcpServertest\TcpServertest\bin\Release\TcpServertest.pdb
+C:\Users\pichaya aeksiri\source\repos\TcpServertest\TcpServertest\bin\Release\SimpleTCP.dll
+C:\Users\pichaya aeksiri\source\repos\TcpServertest\TcpServertest\obj\Release\TcpServertest.Form1.resources
+C:\Users\pichaya aeksiri\source\repos\TcpServertest\TcpServertest\obj\Release\TcpServertest.Properties.Resources.resources
+C:\Users\pichaya aeksiri\source\repos\TcpServertest\TcpServertest\obj\Release\TcpServertest.csproj.GenerateResource.cache
+C:\Users\pichaya aeksiri\source\repos\TcpServertest\TcpServertest\obj\Release\TcpServertest.csproj.CoreCompileInputs.cache
+C:\Users\pichaya aeksiri\source\repos\TcpServertest\TcpServertest\obj\Release\TcpServertest.exe.manifest
+C:\Users\pichaya aeksiri\source\repos\TcpServertest\TcpServertest\obj\Release\TcpServertest.application
+C:\Users\pichaya aeksiri\source\repos\TcpServertest\TcpServertest\obj\Release\TcpServertest.csproj.CopyComplete
+C:\Users\pichaya aeksiri\source\repos\TcpServertest\TcpServertest\obj\Release\TcpServertest.exe
+C:\Users\pichaya aeksiri\source\repos\TcpServertest\TcpServertest\obj\Release\TcpServertest.pdb
