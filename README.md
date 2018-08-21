@@ -34,5 +34,5 @@ List of function is not finish
   - if have something wrong ,sorry for that *
   - Would you let me know if i does anything wrong *
 
-  This project used 22 hr
+  This project used 22 hr for learn and do this.
   contact: pichaya.aek@gmail.com
